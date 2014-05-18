@@ -1,0 +1,89 @@
+
+
+Riddagshausen;23/02/2014;09:00;11:30;soleil sans nuages et plutot frais
+Oie cendrée;++++;beaucoup dans les champs et en vol
+Canard colvert;++++;
+Fuligule morillon;1;un male dans l'eau
+Héron cendré;1;
+Grande Aigrette;1;chasse sur une branche
+Grand Cormoran;++;plusieurs en vol
+Buse variable;2;ensembles, probablement un couple
+Faucon crécerelle;1;au vol
+Pigeon ramier;+++;
+Pic épeiche;1;
+Pic vert;+;quelques chants
+Troglodyte mignon;3;un en construction de nid
+Accenteur mouchet;4;plusieurs, premiers chants. Plutôt dans les jardins que dans la réserve
+Rougegorge familier;3;premiers chants
+Grive musicienne;1;encore quelques chants
+Grive draine;2;chant
+Grive litorne;++++;
+Merle noir;+;pas de chants (matinée trop avancée ?)
+Mésange charbonnière;+++;très actives, beaucoup de chants
+Mésange bleue;++;moins présente que la charbonnière
+Mésange à longue queue;1;cris entendus de loin
+sitelle torchepot;2;quelques chants
+Grimpereau des jardins;3;plusieurs chants, un vu
+Geai des chênes;3;en vol
+Choucas des tours;++;seulement cris
+Corneille noire;+++;présente partout
+Étourneau sansonnet;++++;très présent et bruyant
+Moinneau friquet;2;dans un jardin
+Pinson des arbres;2;très peu présent, premier chant
+Chardonneret élégant;+;
+Tarin des aulnes;++++;
+
+Prinz-albrecht-park;24/02/2014;17:30;18:00;coucher de soleil sans nuages
+Bouvreuil pivoine;1;chants
+Merle noir;beaucoup de chants et de cris du soir;++
+
+Prinz-albrecht-park;25/02/2014;09:30;10:30;Soleil sans nuages, légère fraîcheur
+Pigeon ramier;++;un individu sur un nid, peut-être encore en construction
+Pic vert;++;chants
+Pic épeiche;++;beaucoup d'activité, en partie en couples
+Pic mar;1;seulement le cri
+Merle noir;++;
+Mésange charbonnière;++++;
+Mésange bleue;++++;
+Mésange noire;1;
+Sitelle torcheport;++;
+Grimpereau des jardins;2;
+Corneille noire;+++;
+Étourneau sansonnet;++++;
+Pinson des arbres;2;Étonnament très peu, un seul chant
+
+
+Riddagshausen;15/05/2014;07:30;09:30;frais et nuageux. Pres de l'auberge (pas d'obs sur les etangs). Beaucoup de jeunes.
+Oie cendrée;++++;Aucun poussin, peut-etre rassembles ailleurs.
+Cygne tuberculé;++;
+Canard chipeau;1;un agressif (defend suremen un nid) au Petit Ponton
+Canard colvert;++;
+Nette rousse;2;1 couple sur le premier etang (comme d'hab)
+Fuligule morillon;++;7 males avec quelques femelles sur le Kreuzteich
+Héron cendré;2;
+Buse variable;1;
+Faucon crécerelle;1;
+Mouette rieuse;1;
+Pigeon ramier;++;
+Coucou gris;4;sponsor de la balade. Parade, altercations, vu au vol de tres pret.
+Martinet noir;++++;Toujours present dans le ciel.
+Martin-pêcheur d'Europe;1;s'envole au Petit Ponton
+Corneille noire;++;
+Mésange bleue;+;
+Mésange charbonnière;++;Avec petits.
+Alouette des champs;1;En vol nuptial
+Hirondelle rustique;++;
+Pouillot fitis;1;un chanteur
+Pouillot véloce;2;toujours chanteur
+Rousserolle effarvatte;2;reperees grace au chant.
+Fauvette à tête noire;+;
+Troglodyte mignon;+;chanteurs
+Sittelle torchepot;2;
+Étourneau sansonnet;++;
+Merle noir;+;
+Rougequeue noir;1;
+Rougequeue à front blanc;1;male, pres de l'auberge
+Tarier pâtre;2;1 couple pres du Petit Ponton. Altercation avec le coucou.
+Pipit farlouse;1;vol nuptial sur l'arbre en face du Ponton des libellules.
+Pinson des arbres;+;
+Bruant des roseaux;4;2 couples, un au Ponton des libellules, un au Petit Ponton.

@@ -1,0 +1,986 @@
+(lp0
+S'Phasianid\xe9s'
+p1
+aS' Anatid\xe9s'
+p2
+aS'Gaviid\xe9s'
+p3
+aS' Procellariid\xe9s'
+p4
+aS' Podicip\xe9did\xe9s'
+p5
+aS' Phoenicopt\xe9rid\xe9s'
+p6
+aS' Ciconiid\xe9s'
+p7
+aS' Threskiornithid\xe9s'
+p8
+aS' Ard\xe9id\xe9s'
+p9
+aS' P\xe9l\xe9canid\xe9s'
+p10
+aS' Sulid\xe9s'
+p11
+aS' Phalacrocoracid\xe9s'
+p12
+aS' Pandionid\xe9s'
+p13
+aS' Accipitrid\xe9s'
+p14
+aS' Falconid\xe9s'
+p15
+aS' Otidid\xe9s'
+p16
+aS' Rallid\xe9s'
+p17
+aS' Gruid\xe9s'
+p18
+aS' Burhinid\xe9s'
+p19
+aS' Haematopodid\xe9s'
+p20
+aS' R\xe9curvirostrid\xe9s'
+p21
+aS' Charadriid\xe9s'
+p22
+aS' Scolopacid\xe9s'
+p23
+aS' Larid\xe9s'
+p24
+aS' Alcid\xe9s'
+p25
+aS' Pteroclid\xe9s'
+p26
+aS' Columbid\xe9s'
+p27
+aS' Psittacid\xe9s'
+p28
+aS' Cuculid\xe9s'
+p29
+aS' Tytonid\xe9s'
+p30
+aS' Strigid\xe9s'
+p31
+aS' Caprimulgid\xe9s'
+p32
+aS' Apodid\xe9s'
+p33
+aS' Coraciid\xe9s'
+p34
+aS' Alc\xe9dinid\xe9s'
+p35
+aS' M\xe9ropid\xe9s'
+p36
+aS' Upupid\xe9s'
+p37
+aS' Picid\xe9s'
+p38
+aS' Laniid\xe9s'
+p39
+aS' Oriolid\xe9s'
+p40
+aS' Corvid\xe9s'
+p41
+aS' Bombycillid\xe9s'
+p42
+aS' Parid\xe9s'
+p43
+aS' R\xe9mizid\xe9s'
+p44
+aS' Panurid\xe9s'
+p45
+aS' Alaudid\xe9s'
+p46
+aS' Hirundinid\xe9s'
+p47
+aS' Cettid\xe9s'
+p48
+aS' Aegithalid\xe9s'
+p49
+aS' Phylloscopid\xe9s'
+p50
+aS' Acrocephalid\xe9s'
+p51
+aS' Locustellid\xe9s'
+p52
+aS' Cisticolid\xe9s'
+p53
+aS' Sylviid\xe9s'
+p54
+aS' R\xe9gulid\xe9s'
+p55
+aS' Troglodytid\xe9s'
+p56
+aS' Sittid\xe9s'
+p57
+aS' Tichodromid\xe9s'
+p58
+aS' Certhiid\xe9s'
+p59
+aS' Sturnid\xe9s'
+p60
+aS' Turdid\xe9s'
+p61
+aS' Muscicapid\xe9s'
+p62
+aS' Cinclid\xe9s'
+p63
+aS' Pass\xe9rid\xe9s'
+p64
+aS' Prunellid\xe9s'
+p65
+aS' Motacillid\xe9s'
+p66
+aS' Fringillid\xe9s'
+p67
+aS' Emberizid\xe9s'
+p68
+aS' Calcariid\xe9s'
+p69
+a.(lp70
+(lp71
+S'G\xe9linotte des bois'
+p72
+aS'Grand T\xe9tras'
+p73
+aS'T\xe9tras lyre'
+p74
+aS'Lagop\xe8de alpin'
+p75
+aS'Lagop\xe8de des saules'
+p76
+aS'Perdrix bartavelle'
+p77
+aS'Perdrix choukar'
+p78
+aS'Perdrix rouge'
+p79
+aS'Perdrix grise'
+p80
+aS'Caille des bl\xe9s'
+p81
+aS'Faisan de Colchide'
+p82
+aa(lp83
+S'Oie des moissons'
+p84
+aS'Oie de la toundra'
+p85
+aS'Oie \xe0 bec court'
+p86
+aS'Oie cendr\xe9e'
+p87
+aS'Oie rieuse'
+p88
+aS'Oie naine'
+p89
+aS'Oie \xe0 t\xeate barr\xe9e'
+p90
+aS'Oie des neiges'
+p91
+aS'Bernache du Canada'
+p92
+aS'Bernache cravant'
+p93
+aS'Bernache nonnette'
+p94
+aS'Bernache \xe0 cou roux'
+p95
+aS'Cygne noir'
+p96
+aS'Cygne tubercul\xe9'
+p97
+aS'Cygne de Bewick'
+p98
+aS'Cygne chanteur'
+p99
+aS"Ouette d'\xc9gypte"
+p100
+aS'Tadorne de Belon'
+p101
+aS'Tadorne casarca'
+p102
+aS'Canard mandarin'
+p103
+aS'Canard chipeau'
+p104
+aS'Canard siffleur'
+p105
+aS'Canard colvert'
+p106
+aS'Canard souchet'
+p107
+aS'Canard pilet'
+p108
+aS"Sarcelle d'\xe9t\xe9"
+p109
+aS"Sarcelle d'hiver"
+p110
+aS'Sarcelle \xe0 ailes vertes'
+p111
+aS'Sarcelle marbr\xe9e'
+p112
+aS'Nette rousse'
+p113
+aS'Fuligule milouin'
+p114
+aS'Fuligule nyroca'
+p115
+aS'Fuligule morillon'
+p116
+aS'Fuligule milouinan'
+p117
+aS'Eider de Steller'
+p118
+aS'Eider \xe0 lunettes'
+p119
+aS'Eider \xe0 t\xeate grise'
+p120
+aS'Eider \xe0 duvet'
+p121
+aS'Arlequin plongeur'
+p122
+aS'Macreuse \xe0 front blanc'
+p123
+aS'Macreuse brune'
+p124
+aS'Macreuse noire'
+p125
+aS'Harelde bor\xe9ale'
+p126
+aS"Garrot \xe0 oeil d'or"
+p127
+aS"Garrot d'Islande"
+p128
+aS'Harle piette'
+p129
+aS'Harle bi\xe8vre'
+p130
+aS'Harle hupp\xe9'
+p131
+aS'\xc9rismature rousse'
+p132
+aS'\xc9rismature \xe0 t\xeate blanche'
+p133
+aa(lp134
+S'Plongeon catmarin'
+p135
+aS'Plongeon arctique'
+p136
+aS'Plongeon du Pacifique'
+p137
+aS'Plongeon imbrin'
+p138
+aS'Plongeon \xe0 bec blanc'
+p139
+aa(lp140
+S'Fulmar bor\xe9al'
+p141
+aS'P\xe9trel de Mad\xe8re'
+p142
+aS'Puffin cendr\xe9'
+p143
+aS'Puffin fuligineux'
+p144
+aS'Puffin majeur'
+p145
+aS'Puffin des Anglais'
+p146
+aS'Puffin des Bal\xe9ares'
+p147
+aa(lp148
+S'Gr\xe8be castagneux'
+p149
+aS'Gr\xe8be \xe0 bec bigarr\xe9'
+p150
+aS'Gr\xe8be jougris'
+p151
+aS'Gr\xe8be hupp\xe9'
+p152
+aS'Gr\xe8be esclavon'
+p153
+aS'Gr\xe8be \xe0 cou noir'
+p154
+aa(lp155
+S'Flamant rose'
+p156
+aS'Flamant nain'
+p157
+aa(lp158
+S'Cigogne noire'
+p159
+aS'Cigogne blanche'
+p160
+aa(lp161
+S'Ibis sacr\xe9'
+p162
+aS'Ibis falcinelle'
+p163
+aS'Spatule blanche'
+p164
+aa(lp165
+S'Butor \xe9toil\xe9'
+p166
+aS'Blongios nain'
+p167
+aS'Bihoreau gris'
+p168
+aS'Crabier chevelu'
+p169
+aS'H\xe9ron garde-boeufs'
+p170
+aS'H\xe9ron cendr\xe9'
+p171
+aS'H\xe9ron pourpr\xe9'
+p172
+aS'Grande Aigrette'
+p173
+aS'Aigrette garzette'
+p174
+aS'Aigrette des r\xe9cifs'
+p175
+aa(lp176
+S'P\xe9lican blanc'
+p177
+aS'P\xe9lican gris'
+p178
+aS'P\xe9lican fris\xe9'
+p179
+aa(lp180
+S'Fou de Bassan'
+p181
+aa(lp182
+S'Cormoran pygm\xe9e'
+p183
+aS'Cormoran hupp\xe9'
+p184
+aS'Grand Cormoran'
+p185
+aa(lp186
+S'Balbuzard p\xeacheur'
+p187
+aa(lp188
+S'\xc9lanion blanc'
+p189
+aS'Gypa\xe8te barbu'
+p190
+aS'Vautour percnopt\xe8re'
+p191
+aS'Bondr\xe9e apivore'
+p192
+aS'Vautour fauve'
+p193
+aS'Vautour moine'
+p194
+aS'Vautour oricou'
+p195
+aS'Circa\xe8te Jean-le-Blanc'
+p196
+aS'Aigle pomarin'
+p197
+aS'Aigle criard'
+p198
+aS'Aigle bott\xe9'
+p199
+aS'Aigle ravisseur'
+p200
+aS'Aigle des steppes'
+p201
+aS'Aigle ib\xe9rique'
+p202
+aS'Aigle imp\xe9rial'
+p203
+aS'Aigle royal'
+p204
+aS'Aigle de Bonelli'
+p205
+aS"\xc9pervier d'Europe"
+p206
+aS'Autour des palombes'
+p207
+aS'Busard des roseaux'
+p208
+aS'Busard Saint-Martin'
+p209
+aS'Busard p\xe2le'
+p210
+aS'Busard cendr\xe9'
+p211
+aS'Milan royal'
+p212
+aS'Milan noir'
+p213
+aS'Buse pattue'
+p214
+aS'Buse f\xe9roce'
+p215
+aS'Buse variable'
+p216
+aa(lp217
+S'Faucon cr\xe9cerellette'
+p218
+aS'Faucon cr\xe9cerelle'
+p219
+aS'Faucon kobez'
+p220
+aS"Faucon d'\xc9l\xe9onore"
+p221
+aS'Faucon concolore'
+p222
+aS'Faucon \xe9merillon'
+p223
+aS'Faucon hobereau'
+p224
+aS'Faucon lanier'
+p225
+aS'Faucon sacre'
+p226
+aS'Faucon gerfaut'
+p227
+aS'Faucon p\xe8lerin'
+p228
+aa(lp229
+S'Outarde barbue'
+p230
+aS'Outarde houbara'
+p231
+aS'Outarde canepeti\xe8re'
+p232
+aa(lp233
+S"R\xe2le d'eau"
+p234
+aS'R\xe2le des gen\xeats'
+p235
+aS'Marouette poussin'
+p236
+aS'Tal\xe8ve sultane'
+p237
+aS"Gallinule poule-d'eau"
+p238
+aS'Foulque caroncul\xe9e'
+p239
+aS'Foulque macroule'
+p240
+aa(lp241
+S'Grue du Canada'
+p242
+aS'Grue demoiselle'
+p243
+aS'Grue cendr\xe9e'
+p244
+aa(lp245
+S'Oedicn\xe8me criard'
+p246
+aa(lp247
+S'Hu\xeetrier pie'
+p248
+aa(lp249
+S'\xc9chasse blanche'
+p250
+aS'Avocette \xe9l\xe9gante'
+p251
+aa(lp252
+S'Vanneau hupp\xe9'
+p253
+aS'Vanneau \xe9peronn\xe9'
+p254
+aS'Vanneau \xe0 t\xeate noire'
+p255
+aS'Vanneau indien'
+p256
+aS'Vanneau sociable'
+p257
+aS'Pluvier dor\xe9'
+p258
+aS'Pluvier argent\xe9'
+p259
+aS'Grand Gravelot'
+p260
+aS'Petit Gravelot'
+p261
+aS'Gravelot \xe0 collier interrompu'
+p262
+aS'Pluvier guignard'
+p263
+aa(lp264
+S'B\xe9casse des bois'
+p265
+aS'B\xe9cassine sourde'
+p266
+aS'B\xe9cassine double'
+p267
+aS'B\xe9cassine des marais'
+p268
+aS'Barge \xe0 queue noire'
+p269
+aS'Barge rousse'
+p270
+aS'Courlis corlieu'
+p271
+aS'Courlis cendr\xe9'
+p272
+aS'Chevalier arlequin'
+p273
+aS'Chevalier gambette'
+p274
+aS'Chevalier stagnatile'
+p275
+aS'Chevalier aboyeur'
+p276
+aS'Chevalier criard'
+p277
+aS'Chevalier culblanc'
+p278
+aS'Chevalier sylvain'
+p279
+aS'Chevalier guignette'
+p280
+aS'Tournepierre \xe0 collier'
+p281
+aS'B\xe9casseau maub\xe8che'
+p282
+aS'B\xe9casseau sanderling'
+p283
+aS'B\xe9casseau minute'
+p284
+aS'B\xe9casseau de Temminck'
+p285
+aS'B\xe9casseau cocorli'
+p286
+aS'B\xe9casseau violet'
+p287
+aS'B\xe9casseau variable'
+p288
+aS'B\xe9casseau falcinelle'
+p289
+aS'Combattant vari\xe9'
+p290
+aS'Phalarope \xe0 bec \xe9troit'
+p291
+aS'Phalarope \xe0 bec large'
+p292
+aa(lp293
+S'Mouette tridactyle'
+p294
+aS'Mouette de Sabine'
+p295
+aS'Mouette rieuse'
+p296
+aS"Go\xe9land d'Audouin"
+p297
+aS'Mouette m\xe9lanoc\xe9phale'
+p298
+aS'Go\xe9land ichthya\xe8te'
+p299
+aS'Go\xe9land cendr\xe9'
+p300
+aS'Go\xe9land \xe0 bec cercl\xe9'
+p301
+aS'Go\xe9land marin'
+p302
+aS'Go\xe9land argent\xe9'
+p303
+aS'Go\xe9land leucoph\xe9e'
+p304
+aS'Go\xe9land brun'
+p305
+aS'Sterne hansel'
+p306
+aS'Sterne caspienne'
+p307
+aS'Sterne caugek'
+p308
+aS'Sterne naine'
+p309
+aS'Sterne de Dougall'
+p310
+aS'Sterne pierregarin'
+p311
+aS'Sterne arctique'
+p312
+aS'Guifette moustac'
+p313
+aS'Guifette leucopt\xe8re'
+p314
+aS'Guifette noire'
+p315
+aa(lp316
+S'Guillemot de Tro\xefl'
+p317
+aS'Pingouin torda'
+p318
+aS'Guillemot \xe0 miroir'
+p319
+aS'Macareux moine'
+p320
+aa(lp321
+S'Ganga cata'
+p322
+aa(lp323
+S'Pigeon biset'
+p324
+aS'Pigeon colombin'
+p325
+aS'Pigeon ramier'
+p326
+aS'Tourterelle des bois'
+p327
+aS'Tourterelle turque'
+p328
+aS'Tourterelle maill\xe9e'
+p329
+aa(lp330
+S'Perruche \xe0 collier'
+p331
+aa(lp332
+S'Coucou gris'
+p333
+aa(lp334
+S'Effraie des clochers'
+p335
+aa(lp336
+S'Petit-duc scops'
+p337
+aS"Grand-duc d'Europe"
+p338
+aS'Chouette hulotte'
+p339
+aS"Chev\xeache d'Ath\xe9na"
+p340
+aS'Chouette de Tengmalm'
+p341
+aS'Hibou moyen-duc'
+p342
+aS'Hibou des marais'
+p343
+aa(lp344
+S"Engoulevent d'Europe"
+p345
+aa(lp346
+S'Martinet \xe0 ventre blanc'
+p347
+aS'Martinet noir'
+p348
+aS'Martinet p\xe2le'
+p349
+aa(lp350
+S"Rollier d'Europe"
+p351
+aa(lp352
+S"Martin-p\xeacheur d'Europe"
+p353
+aa(lp354
+S"Gu\xeapier d'Europe"
+p355
+aa(lp356
+S'Huppe fasci\xe9e'
+p357
+aa(lp358
+S'Torcol fourmilier'
+p359
+aS'Pic \xe9peichette'
+p360
+aS'Pic mar'
+p361
+aS'Pic \xe9peiche'
+p362
+aS'Pic noir'
+p363
+aS'Pic vert'
+p364
+aS'Pic cendr\xe9'
+p365
+aa(lp366
+S'Pie-gri\xe8che \xe9corcheur'
+p367
+aS'Pie-gri\xe8che \xe0 poitrine rose'
+p368
+aS'Pie-gri\xe8che grise'
+p369
+aS'Pie-gri\xe8che m\xe9ridionale'
+p370
+aS'Pie-gri\xe8che \xe0 t\xeate rousse'
+p371
+aa(lp372
+S"Loriot d'Europe"
+p373
+aa(lp374
+S'Geai des ch\xeanes'
+p375
+aS'Pie bavarde'
+p376
+aS'Cassenoix mouchet\xe9'
+p377
+aS'Crave \xe0 bec rouge'
+p378
+aS'Chocard \xe0 bec jaune'
+p379
+aS'Choucas des tours'
+p380
+aS'Corbeau freux'
+p381
+aS'Corneille noire'
+p382
+aS'Corneille mantel\xe9e'
+p383
+aS'Grand Corbeau'
+p384
+aa(lp385
+S'Jaseur bor\xe9al'
+p386
+aa(lp387
+S'M\xe9sange noire'
+p388
+aS'M\xe9sange hupp\xe9e'
+p389
+aS'M\xe9sange nonnette'
+p390
+aS'M\xe9sange bor\xe9ale'
+p391
+aS'M\xe9sange bleue'
+p392
+aS'M\xe9sange charbonni\xe8re'
+p393
+aa(lp394
+S'R\xe9miz penduline'
+p395
+aa(lp396
+S'Panure \xe0 moustaches'
+p397
+aa(lp398
+S'Alouette calandre'
+p399
+aS'Alouette calandrelle'
+p400
+aS'Alouette pispolette'
+p401
+aS'Cochevis hupp\xe9'
+p402
+aS'Cochevis de Th\xe9kla'
+p403
+aS'Alouette lulu'
+p404
+aS'Alouette des champs'
+p405
+aa(lp406
+S'Hirondelle de rivage'
+p407
+aS'Hirondelle rustique'
+p408
+aS'Hirondelle de rochers'
+p409
+aS'Hirondelle de fen\xeatre'
+p410
+aS'Hirondelle rousseline'
+p411
+aa(lp412
+S'Bouscarle de Cetti'
+p413
+aa(lp414
+S'M\xe9sange \xe0 longue queue'
+p415
+aa(lp416
+S'Pouillot fitis'
+p417
+aS'Pouillot v\xe9loce'
+p418
+aS'Pouillot de Bonelli'
+p419
+aS'Pouillot siffleur'
+p420
+aa(lp421
+S'Rousserolle turdo\xefde'
+p422
+aS'Lusciniole \xe0 moustaches'
+p423
+aS'Phragmite des joncs'
+p424
+aS'Rousserolle effarvatte'
+p425
+aS'Rousserolle verderolle'
+p426
+aS'Hypola\xefs p\xe2le'
+p427
+aS'Hypola\xefs polyglotte'
+p428
+aS'Hypola\xefs ict\xe9rine'
+p429
+aa(lp430
+S'Locustelle fluviatile'
+p431
+aS'Locustelle luscinio\xefde'
+p432
+aa(lp433
+S'Cisticole des joncs'
+p434
+aS'Prinia gracile'
+p435
+aa(lp436
+S'Fauvette \xe0 t\xeate noire'
+p437
+aS'Fauvette des jardins'
+p438
+aS'Fauvette \xe9pervi\xe8re'
+p439
+aS'Fauvette babillarde'
+p440
+aS'Fauvette orph\xe9e'
+p441
+aS'Fauvette orph\xe9ane'
+p442
+aS'Fauvette \xe0 lunettes'
+p443
+aS'Fauvette passerinette'
+p444
+aS'Fauvette m\xe9lanoc\xe9phale'
+p445
+aa(lp446
+S'Roitelet triple-bandeau'
+p447
+aS'Roitelet hupp\xe9'
+p448
+aa(lp449
+S'Troglodyte mignon'
+p450
+aa(lp451
+S'Sittelle torchepot'
+p452
+aS'Sittelle corse'
+p453
+aS'Sittelle de Kr\xfcper'
+p454
+aa(lp455
+S'Tichodrome \xe9chelette'
+p456
+aa(lp457
+S'Grimpereau des bois'
+p458
+aS'Grimpereau des jardins'
+p459
+aa(lp460
+S'\xc9tourneau sansonnet'
+p461
+aS'\xc9tourneau unicolore'
+p462
+aa(lp463
+S'Merle \xe0 plastron'
+p464
+aS'Merle noir'
+p465
+aS'Grive litorne'
+p466
+aS'Grive mauvis'
+p467
+aS'Grive musicienne'
+p468
+aS'Grive draine'
+p469
+aa(lp470
+S'Rougegorge familier'
+p471
+aS'Rossignol progn\xe9'
+p472
+aS'Rossignol philom\xe8le'
+p473
+aS'Rougequeue noir'
+p474
+aS'Rougequeue \xe0 front blanc'
+p475
+aS'Tarier des pr\xe9s'
+p476
+aS'Tarier p\xe2tre'
+p477
+aS'Traquet motteux'
+p478
+aS'Monticole de roche'
+p479
+aS'Monticole bleu'
+p480
+aS'Gobemouche gris'
+p481
+aS'Gobemouche noir'
+p482
+aa(lp483
+S'Cincle plongeur'
+p484
+aa(lp485
+S'Moineau domestique'
+p486
+aS'Moineau friquet'
+p487
+aS'Niverolle alpine'
+p488
+aa(lp489
+S'Accenteur alpin'
+p490
+aS'Accenteur mouchet'
+p491
+aa(lp492
+S'Bergeronnette printani\xe8re'
+p493
+aS'Bergeronnette citrine'
+p494
+aS'Bergeronnette des ruisseaux'
+p495
+aS'Bergeronnette grise'
+p496
+aS'Pipit rousseline'
+p497
+aS'Pipit farlouse'
+p498
+aS'Pipit des arbres'
+p499
+aS'Pipit \xe0 gorge rousse'
+p500
+aS'Pipit spioncelle'
+p501
+aS'Pipit maritime'
+p502
+aa(lp503
+S'Pinson des arbres'
+p504
+aS'Pinson du Nord'
+p505
+aS'Grosbec casse-noyaux'
+p506
+aS'Durbec des sapins'
+p507
+aS'Bouvreuil pivoine'
+p508
+aS"Verdier d'Europe"
+p509
+aS'Linotte m\xe9lodieuse'
+p510
+aS'Sizerin flamm\xe9'
+p511
+aS'Bec-crois\xe9 des sapins'
+p512
+aS'Chardonneret \xe9l\xe9gant'
+p513
+aS'Venturon montagnard'
+p514
+aS'Venturon corse'
+p515
+aS'Serin cini'
+p516
+aS'Tarin des aulnes'
+p517
+aa(lp518
+S'Bruant proyer'
+p519
+aS'Bruant jaune'
+p520
+aS'Bruant fou'
+p521
+aS'Bruant ortolan'
+p522
+aS'Bruant zizi'
+p523
+aS'Bruant m\xe9lanoc\xe9phale'
+p524
+aS'Bruant des roseaux'
+p525
+aa(lp526
+S'Bruant des neiges'
+p527
+aa.

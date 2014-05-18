@@ -1,0 +1,158 @@
+# -*- coding: utf-8 -*-
+
+import Tkinter
+import tkMessageBox
+import datetime
+
+def check_entries(lieu, date, h_deb, h_fin):
+
+  res_test = False
+  fin_test = False
+
+  while fin_test != True:
+
+    ########
+    # LIEU #
+    ########
+
+    #Le lieu est entré
+    lieu = str(lieu)
+    if lieu == "":
+			res_test = show_error("Le lieu n'a pas été saisi")
+			break
+    else:
+      res_test = True
+
+    ########
+    # DATE #
+    ########
+    #Vérification de la date
+    date_act = datetime.datetime.now()
+    date_act = str(date_act)
+  
+    jour = date[0:2]
+    jour_act = date_act[8:10]
+    jour_act = int(jour_act)
+    mois = date[3:5]
+    mois_act = date_act[5:7]
+    mois_act = int(mois_act)
+    annee = date[6:10]
+    annee_check = str(annee)
+    annee_act = date_act[0:4]
+    annee_act = int(annee_act)
+
+    ##Vérifs générales
+    #La taille est 10"
+    if len(date) != 10:
+      tkMessageBox.showwarning("Attention", "Mauvais format de date")
+      res_test = False
+      break
+    else:
+      res_test = True
+      
+    #Les slash sont aux bons endroits
+    if (date[2] == "/") and (date[5] == "/"):
+      res_test = True
+    else:
+      tkMessageBox.showwarning("Attention", "Mauvais format de date\n\
+(attention aux '/')")
+      res_test = False
+      break
+    
+    ##MOIS
+    #Le mois est un int
+    try:
+      mois = int(mois)
+      res_test = True
+    except:
+      tkMessageBox.showwarning("Attention", "Mauvais format pour le mois")
+      res_test = False
+      break
+    #Le mois est inférieur à 12 et supérieur à 0
+    if mois < 13 and mois >0:
+      res_test = True
+    else:
+      res_test = False
+      tkMessageBox.showwarning("Attention", "Mauvais format pour le mois\n\
+Les mois sont comprise entre 1 et 12")
+      break
+
+    ##JOUR
+    #le jour est un int
+    try:
+      jour = int(jour)
+      res_test = True
+    except:
+      tkMessageBox.showwarning("Attention", "Mauvais format pour le jour")
+      res_test = False
+      break
+    #Le jour est <= à 30, et >0
+    if (jour <= 31) and (jour >0):
+      res_test = True
+    else:
+      tkMessageBox.showwarning("Attention", "Mauvais format pour le jour\n\
+(Il y a entre 1 et 31 jours)")
+      res_test = False
+      break
+    #Si le mois est 2 : il n'y a que 29 jours max
+    if (mois == 3) and (jour > 29):
+      tkMessageBox.showwarning("Attention", "Mauvais format pour le jour\
+                                \n(février n'a pas 30 jours)")
+      res_test = False
+      break
+    else:
+      res_test = True
+
+    ##ANNEE
+    #L'année est un int
+    try:
+      annee = int(annee)
+      res_test = True
+    except:
+      tkMessageBox.showwarning("Attention", "Mauvais format pour l'année")
+      res_test = False
+      break
+    #l'année est cohérente (entre 1900 et 2099)
+    if (annee_check[0] == '1' and annee_check[1] == '9') \
+       or (annee_check[0] == '2' and annee_check[1] == '0'):
+      res_test = True
+    else:
+      tkMessageBox.showwarning("Attention", "Choisir une année cohérente")
+      res_test = False
+      break
+    
+    #la date est inférieur à l'actuelle
+    if annee > annee_act:
+      tkMessageBox.showwarning("Attention", "L'année est supérieure à la date actuelle")
+      res_test = False
+      break
+    elif (annee == anne_act) and (mois > mois_act):
+      tkMessageBox.showwarning("Attention", "Le mois est supérieur à la date actuelle")
+      res_test = False
+      break
+    elif (annee == anne_act) and (mois > mois_act) and (jour > jour_act):
+      res_test = False
+      tkMessageBox.showwarning("Attention", "Le jour est supérieur au jour actuel")
+      break
+    else:
+			res_test = True
+		
+		##################
+		# Heure de début #
+		##################
+		
+
+    #Le test est fini
+    fin_test = True
+  print("FINAL : ", res_test)
+    
+  return res_test
+
+def show_error(message):
+	tkMessageBox.showwarning("Attention", message)
+	res_test = False
+	return res_test
+
+
+      
+    

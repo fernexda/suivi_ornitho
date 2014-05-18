@@ -1,0 +1,389 @@
+Gélinotte des bois
+Grand Tétras
+Tétras lyre
+Lagopède alpin
+Lagopède des saules
+Perdrix bartavelle
+Perdrix choukar
+Perdrix rouge
+Perdrix grise
+Caille des blés
+Faisan de Colchide
+Oie des moissons
+Oie de la toundra
+Oie à bec court
+Oie cendrée
+Oie rieuse
+Oie naine
+Oie à tête barrée
+Oie des neiges
+Bernache du Canada
+Bernache cravant
+Bernache nonnette
+Bernache à cou roux
+Cygne noir
+Cygne tuberculé
+Cygne de Bewick
+Cygne chanteur
+Ouette d'Égypte
+Tadorne de Belon
+Tadorne casarca
+Canard mandarin
+Canard chipeau
+Canard siffleur
+Canard colvert
+Canard souchet
+Canard pilet
+Sarcelle d'été
+Sarcelle d'hiver
+Sarcelle à ailes vertes
+Sarcelle marbrée
+Nette rousse
+Fuligule milouin
+Fuligule nyroca
+Fuligule morillon
+Fuligule milouinan
+Eider de Steller
+Eider à lunettes
+Eider à tête grise
+Eider à duvet
+Arlequin plongeur
+Macreuse à front blanc
+Macreuse brune
+Macreuse noire
+Harelde boréale
+Garrot à oeil d'or
+Garrot d'Islande
+Harle piette
+Harle bièvre
+Harle huppé
+Érismature rousse
+Érismature à tête blanche
+Plongeon catmarin
+Plongeon arctique
+Plongeon du Pacifique
+Plongeon imbrin
+Plongeon à bec blanc
+Fulmar boréal
+Pétrel de Madère
+Puffin cendré
+Puffin fuligineux
+Puffin majeur
+Puffin des Anglais
+Puffin des Baléares
+Grèbe castagneux
+Grèbe à bec bigarré
+Grèbe jougris
+Grèbe huppé
+Grèbe esclavon
+Grèbe à cou noir
+Flamant rose
+Flamant nain
+Cigogne noire
+Cigogne blanche
+Ibis sacré
+Ibis falcinelle
+Spatule blanche
+Butor étoilé
+Blongios nain
+Bihoreau gris
+Crabier chevelu
+Héron garde-boeufs
+Héron cendré
+Héron pourpré
+Grande Aigrette
+Aigrette garzette
+Aigrette des récifs
+Pélican blanc
+Pélican gris
+Pélican frisé
+Fou de Bassan
+Cormoran pygmée
+Cormoran huppé
+Grand Cormoran
+Balbuzard pêcheur
+Élanion blanc
+Gypaète barbu
+Vautour percnoptère
+Bondrée apivore
+Vautour fauve
+Vautour moine
+Vautour oricou
+Circaète Jean-le-Blanc
+Aigle pomarin
+Aigle criard
+Aigle botté
+Aigle ravisseur
+Aigle des steppes
+Aigle ibérique
+Aigle impérial
+Aigle royal
+Aigle de Bonelli
+Épervier d'Europe
+Autour des palombes
+Busard des roseaux
+Busard Saint-Martin
+Busard pâle
+Busard cendré
+Milan royal
+Milan noir
+Buse pattue
+Buse féroce
+Buse variable
+Faucon crécerellette
+Faucon crécerelle
+Faucon kobez
+Faucon d'Éléonore
+Faucon concolore
+Faucon émerillon
+Faucon hobereau
+Faucon lanier
+Faucon sacre
+Faucon gerfaut
+Faucon pèlerin
+Outarde barbue
+Outarde houbara
+Outarde canepetière
+Râle d'eau
+Râle des genêts
+Marouette poussin
+Talève sultane
+Gallinule poule-d'eau
+Foulque caronculée
+Foulque macroule
+Grue du Canada
+Grue demoiselle
+Grue cendrée
+Turnix mugissant
+Oedicnème criard
+Huîtrier pie
+Échasse blanche
+Avocette élégante
+Vanneau huppé
+Vanneau éperonné
+Vanneau à tête noire
+Vanneau indien
+Vanneau sociable
+Pluvier doré
+Pluvier argenté
+Grand Gravelot
+Petit Gravelot
+Gravelot à collier interrompu
+Pluvier guignard
+Bécasse des bois
+Bécassine sourde
+Bécassine double
+Bécassine des marais
+Barge à queue noire
+Barge rousse
+Courlis corlieu
+Courlis cendré
+Chevalier arlequin
+Chevalier gambette
+Chevalier stagnatile
+Chevalier aboyeur
+Chevalier criard
+Chevalier culblanc
+Chevalier sylvain
+Chevalier guignette
+Tournepierre à collier
+Bécasseau maubèche
+Bécasseau sanderling
+Bécasseau minute
+Bécasseau de Temminck
+Bécasseau cocorli
+Bécasseau violet
+Bécasseau variable
+Bécasseau falcinelle
+Combattant varié
+Phalarope à bec étroit
+Phalarope à bec large
+Mouette tridactyle
+Mouette de Sabine
+Mouette rieuse
+Goéland d'Audouin
+Mouette mélanocéphale
+Goéland ichthyaète
+Goéland cendré
+Goéland à bec cerclé
+Goéland marin
+Goéland argenté
+Goéland leucophée
+Goéland brun
+Sterne hansel
+Sterne caspienne
+Sterne caugek
+Sterne naine
+Sterne de Dougall
+Sterne pierregarin
+Sterne arctique
+Guifette moustac
+Guifette leucoptère
+Guifette noire
+Guillemot de Troïl
+Pingouin torda
+Guillemot à miroir
+Macareux moine
+Ganga cata
+Pigeon biset
+Pigeon colombin
+Pigeon ramier
+Tourterelle des bois
+Tourterelle turque
+Tourterelle maillée
+Perruche à collier
+Coucou gris
+Effraie des clochers
+Petit-duc scops
+Grand-duc d'Europe
+Chouette hulotte
+Chevêche d'Athéna
+Chouette de Tengmalm
+Hibou moyen-duc
+Hibou des marais
+Engoulevent d'Europe
+Martinet à ventre blanc
+Martinet noir
+Martinet pâle
+Rollier d'Europe
+Martin-pêcheur d'Europe
+Guêpier d'Europe
+Huppe fasciée
+Torcol fourmilier
+Pic épeichette
+Pic mar
+Pic épeiche
+Pic noir
+Pic vert
+Pic cendré
+Pie-grièche écorcheur
+Pie-grièche à poitrine rose
+Pie-grièche grise
+Pie-grièche méridionale
+Pie-grièche à tête rousse
+Loriot d'Europe
+Geai des chênes
+Pie bavarde
+Cassenoix moucheté
+Crave à bec rouge
+Chocard à bec jaune
+Choucas des tours
+Corbeau freux
+Corneille noire
+Corneille mantelée
+Grand Corbeau
+Jaseur boréal
+Mésange noire
+Mésange huppée
+Mésange nonnette
+Mésange boréale
+Mésange bleue
+Mésange charbonnière
+Rémiz penduline
+Panure à moustaches
+Alouette calandre
+Alouette calandrelle
+Alouette pispolette
+Cochevis huppé
+Cochevis de Thékla
+Alouette lulu
+Alouette des champs
+Hirondelle de rivage
+Hirondelle rustique
+Hirondelle de rochers
+Hirondelle de fenêtre
+Hirondelle rousseline
+Bouscarle de Cetti
+Mésange à longue queue
+Pouillot fitis
+Pouillot véloce
+Pouillot de Bonelli
+Pouillot siffleur
+Rousserolle turdoïde
+Lusciniole à moustaches
+Phragmite des joncs
+Rousserolle effarvatte
+Rousserolle verderolle
+Hypolaïs pâle
+Hypolaïs polyglotte
+Hypolaïs ictérine
+Locustelle fluviatile
+Locustelle luscinioïde
+Cisticole des joncs
+Prinia gracile
+Fauvette à tête noire
+Fauvette des jardins
+Fauvette épervière
+Fauvette babillarde
+Fauvette orphée
+Fauvette orphéane
+Fauvette à lunettes
+Fauvette passerinette
+Fauvette mélanocéphale
+Roitelet triple-bandeau
+Roitelet huppé
+Troglodyte mignon
+Sittelle torchepot
+Sittelle corse
+Sittelle de Krüper
+Tichodrome échelette
+Grimpereau des bois
+Grimpereau des jardins
+Étourneau sansonnet
+Étourneau unicolore
+Merle à plastron
+Merle noir
+Grive litorne
+Grive mauvis
+Grive musicienne
+Grive draine
+Rougegorge familier
+Rossignol progné
+Rossignol philomèle
+Rougequeue noir
+Rougequeue à front blanc
+Tarier des prés
+Tarier pâtre
+Traquet motteux
+Monticole de roche
+Monticole bleu
+Gobemouche gris
+Gobemouche noir
+Cincle plongeur
+Moineau domestique
+Moineau friquet
+Niverolle alpine
+Accenteur alpin
+Accenteur mouchet
+Bergeronnette printanière
+Bergeronnette citrine
+Bergeronnette des ruisseaux
+Bergeronnette grise
+Pipit rousseline
+Pipit farlouse
+Pipit des arbres
+Pipit à gorge rousse
+Pipit spioncelle
+Pipit maritime
+Pinson des arbres
+Pinson du Nord
+Grosbec casse-noyaux
+Durbec des sapins
+Bouvreuil pivoine
+Verdier d'Europe
+Linotte mélodieuse
+Sizerin flammé
+Bec-croisé des sapins
+Chardonneret élégant
+Venturon montagnard
+Venturon corse
+Serin cini
+Tarin des aulnes
+Bruant proyer
+Bruant jaune
+Bruant fou
+Bruant ortolan
+Bruant zizi
+Bruant mélanocéphale
+Bruant des roseaux
+Bruant des neiges
